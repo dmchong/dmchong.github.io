@@ -73,7 +73,7 @@ _RMIT University, Australia_
 
 ## 👨‍👩‍👦 Personal
 
-- Married to Leanne, father to Leo  
+- A husband and father
 - Enjoy building intuitive tech for non-tech users (even in-laws)  
 - Designed systems for operator comfort (e.g. paisley focus targets)  
 - A lifelong learner with a purpose: build things that matter
@@ -81,3 +81,4 @@ _RMIT University, Australia_
 ---
 
 > This resume is living. Like good code, it evolves over time.
+
