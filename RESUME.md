@@ -1,79 +1,83 @@
-Douglas
-============
+# Douglas Chong
 
-*-An inquisitive mind is not something to be left alone.*<br />
+**Software Developer | Camera Systems | Embedded Vision | CUDA Specialist**
+
+📍 Richmond, BC, Canada  
+🌐 [dmchong.github.io](https://dmchong.github.io)  
+📫 chong.douglas@gmail.com
+
+---
+
+## 💼 Summary
+
+An inquisitive mind is not something to be left alone.
+
 I thrive on solving problems and puzzles for the advancement of humanity.
 
-Education
-==
+I'm a pragmatic software developer with 15+ years of experience at Teledyne IIS, focusing on real-time camera systems, stereo vision pipelines, and high-performance computing. With a strong foundation in **Computational Mathematics** from RMIT University, I specialize in C++, CUDA, and embedded systems—building low-level solutions that integrate tightly with hardware.
 
-2004-2008
-:   **Royal Melbourne Institute of Technology** <br />
-Bachelors of Computer Science (Computational Mathematics)<br />
-Useful knowledge
+I enjoy exploring the intersection of engineering, optics, and code—especially in stereo imaging, image processing pipelines, and system-level integration. Always hands-on, I value clarity, correctness, and control over the tech I build.
 
-  * Algorthms and Analysis (problem solving and efficient coding)
-  * Standard C (handling some segmentation faults)
-  * Object Oriented Programming
-  * Unix System Admin (installing Slackware Linux on command line )
+---
 
-2010 : **BCIT** <br />
-C++ Courses
-* Getting some knowledge on C++
+## 🧠 Core Skills
 
-Experience
-==
+- **Languages:** C++, CUDA, Python, C#, Bash, CMake  
+- **Frameworks/Tools:** OpenCV, Eigen, Qt, PCL, Spinnaker SDK, Intel IPP, Neovim  
+- **Hardware:** Stereo cameras, IMX sensors, Embedded Linux  
+- **Expertise:**  
+  - GPU acceleration and CUDA kernel optimization  
+  - Host-side calibration and lookup table generation for rectification  
+  - Header-only C++ libraries for performance-critical tasks  
+  - 3D point cloud generation, rendering, and PLY file I/O  
+  - Memory management, race condition debugging, and profiling
 
-**Software Developer <br />**
-**Point Grey Research (November 2015 - November 2016) <br />**
-**FLIR (November 2016 - May 2021) <br />**
-**Teledyne FLIR (May 2021 - Present) <br />**
+---
 
-- Design, build, integrate and test a demo with the Jetson TX2 for ITS applications for a trade show
-- Build and simplify a workflow to collect, label, train and deploy a deep learning model on the edge smart camera.
-- Design, build, integrate and test a demo with a robot arm and Raspberry Pi to pick and place blocks for a trade show.
-- Design new tests for new products.
-- Maintained legacy code base for manufacturing
+## 🛠️ Projects
 
-**Assembler<br />**
-**Point Grey Research (October 2009 - November 2015) <br />**
+- **CUDA Demosaicing Pipeline** – Fast CUDA port of the Menon 2007 DFPD algorithm using Eigen matrices and asynchronous memory handling.  
+- **Point Cloud Viewer** – Qt-based OpenGL viewer with full camera control (pitch, yaw, roll, zoom, pan) and binary/text PLY support.  
+- **Stereo Depth System** – Host-side calibration generates lookup tables used for image rectification; disparity calculated using SGBM with 1/64th subpixel precision.  
+- **Ladybug CMake Refactor** – Modularized and integrated legacy Makefile project into a clean, modern CMake structure.
 
-- Build and test industrial machine vision cameras and stereo and spherical cameras
-- Fine tune processes to improve throughput
+---
 
-Skills
-==
+## 🧪 Technical Interests
 
-**Programming<br />**
+- Image signal pipelines (demosaic, focus scoring, disparity)  
+- Embedded vision systems and camera software stacks  
+- Workflow automation and zero-boilerplate design  
+- Performance debugging (Nsight, memcheck, async profiling)  
+- Reverse engineering devices and legacy systems  
+- Playing with Neovim because sometimes IDEs are too much
 
-- C
-- C++
-- C#
-- Python
-- Bash
-- SQL
-- Matlab
+---
 
-**Additional Skills <br />**
-- Linux, L4T
-- Windows, WSL
-- Networking
-- Databases (MySQL)
+## 🧍 About Me
 
-**Other knowledge <br />**
-- Image processing
-- OpenCV
-- Optics
-- Photography
+- I code like I mean it—and I usually do.  
+- “Lazy” means solving a problem once so I never have to again.  
+- I’d rather wrap a C++ function than argue about the `const` keyword.  
+- Probably debugging a race condition at 3am or hacking on Gentoo.  
+- Enjoys sci-fi, space sims, Star Citizen, Factorio, and meaningful work.
 
-**Interests <br />**
-- ROS
-- 3d Printing
-- SLAM
-- AI
-- Kinematics
+---
 
-**Human Languages <br />**
+## 📚 Education
 
-* English (native speaker)
-* Minimal Mandarin and Cantonese
+**Bachelor of Computer Science (Computational Mathematics)**  
+_RMIT University, Australia_
+
+---
+
+## 👨‍👩‍👦 Personal
+
+- Married to Leanne, father to Leo  
+- Enjoy building intuitive tech for non-tech users (even in-laws)  
+- Designed systems for operator comfort (e.g. paisley focus targets)  
+- A lifelong learner with a purpose: build things that matter
+
+---
+
+> This resume is living. Like good code, it evolves over time.
